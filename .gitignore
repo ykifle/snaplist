@@ -1,2 +1,9 @@
-/log/*
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+log/*
 site_key.txt
