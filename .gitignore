@@ -5,5 +5,4 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
-log/*
 site_key.txt
